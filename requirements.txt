@@ -1,0 +1,4 @@
+jdk>=8                         
+sqlite-jdbc>=3.36.0.3           
+json>=20210307                  
+swing                          
